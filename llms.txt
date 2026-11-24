@@ -1,0 +1,12 @@
+# ウォーターサーバーコンパス | 主要10社徹底比較 2026
+
+> ウォーターサーバー主要10社を徹底比較。プレミアムウォーター・コスモウォーター・フレシャス・アクアクララ等の月額料金・水の種類・キャンペーンを毎日更新。最適な1台をAIで選ぶ。
+
+## Main Pages
+
+- [water server hikaku](https://musclelove-777.github.io/water-server-hikaku/): main page of ウォーターサーバーコンパス | 主要10社徹底比較 2026.
+
+## About this file
+
+This llms.txt follows the llmstxt.org proposal and lists the main entry points of this site for LLM-based crawlers and AI search agents.
+Generated automatically from sitemap.xml. Source repository: https://github.com/MuscleLove-777/water-server-hikaku
